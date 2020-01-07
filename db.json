@@ -1,0 +1,64 @@
+{
+    "uuid": "74d1dc37-51a7-4db0-bc04-c48c08d49dae",
+    "isActivated": true, 
+    "createdOn": "2018-09-22T12:42:31.000Z",
+    "activatedOn": "2018-09-22T12:42:31.000Z",
+    "facility": {
+        "uuid": "3da47c21-1a41-4f7f-b819-a4b0b1a7982b",
+        "name": "Kitchen",
+        "floor": "10"
+    },
+    "issueReport": {
+        "uuid": "3f844d2d-d263-42e1-aa01-e3da7757d471",
+        "createdOn": "2018-09-22T12:42:31.000Z",
+        "status": "SCANNED"
+    },
+    "issueGroup": {
+        "uuid": "3f844d2d-d263-42e1-aa01-e3da7757d471",
+        "name": "Kitchen",
+        "showArbitraryDescriptionField": true,
+        "showIssueReporterContactField": true,
+        "issueTypes": [
+            {
+                "uuid": "1da47c21-1a41-4f7f-b819-a4b0b1a7982b",
+                "name": "Soap dispenser is empty",
+                "isActive": true
+            },
+            {
+                "uuid": "2da47c21-1a41-4f7f-b819-a4b0b1a8982b",
+                "name": "Facility needs to be cleaned",
+                "isActive": true
+            },
+            {
+                "uuid": "3da47c21-1a41-4f7f-b819-a4b0b1a6982b",
+                "name": "No napkins",
+                "isActive": true
+            },
+            {
+                "uuid": "4da47c21-1a41-4f7f-b819-a4b0b1a4982b",
+                "name": "Garbage can is full",
+                "isActive": true
+            },
+            {
+                "uuid": "5da47c21-1a41-4f7f-b819-a4b0b1a4982b",
+                "name": "Refrigirator is broken ",
+                "isActive": true
+            },
+            {
+                "uuid": "6da47c21-1a41-4f7f-b819-a4b0b1a4982b",
+                "name": "Water dispenser is broken",
+                "isActive": true
+            },
+            {
+                "uuid": "7da47c21-1a41-4f7f-b819-a4b0b1a4982b",
+                "name": "No tea/sugar/sticks",
+                "isActive": true
+            },
+            {
+                "uuid": "8da47c21-1a41-4f7f-b819-a4b0b1a4982b",
+                "name": "Wending machine malfunction",
+                "isActive": true
+            }
+        ]
+    }
+}
